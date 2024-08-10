@@ -3,7 +3,6 @@
   "version": "0.2.0",
   "author": "Solana Maintainers <maintainers@solana.foundation>",
   "license": "MIT",
-  "private": false,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
